@@ -27,8 +27,8 @@ SD_2    db      SND_END+1       ; 000c: 81
 SD_3    db      SND_END+2       ; 000d: 82
 SD_4    db      SND_END+4       ; 000e: 84
 SD_5    db      10,SND_END+40   ; 000f: 0a a8
-SD_6    db      SND_END+10      ; 0011: 8a
-SD_7    db      SND_END+32      ; 0012: a0
+SD_6    db      SND_END+1       ; 0011: 8a
+SD_7    db      SND_END+3       ; 0012: a0
 ;
 ; This is the soundlet pointer table which contains the pointers to the soundlets
 ;
