@@ -1,4 +1,4 @@
-;Sound: Wristapp Developers
+;Sound: Quiet Downloads
 ;Version: Sound1
 ;
             INCLUDE "WRISTAPP.I"

@@ -1,4 +1,4 @@
-wristappdevs.spc:
+quietdl.spc:
 
 %.spc: %.asm
 	rm -f $@
