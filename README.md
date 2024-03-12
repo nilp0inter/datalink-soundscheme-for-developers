@@ -1,4 +1,4 @@
-# Quieter Sound Scheme for Timex Datalink 150/150s
+# Quieter Downloads Sound Scheme for Timex Datalink 150/150s
 
 The constant beeping while developing Wristapps can become tiresome and is detrimental to the watch's battery life. This
 quieter sound scheme aims to alleviate these issues, making Wristapp development a more enjoyable experience.
