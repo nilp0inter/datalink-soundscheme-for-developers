@@ -11,4 +11,4 @@ This project builds upon his contributions.
 1. **Data Packet Beep Disabled**: The beep between each data packet transmission is now disabled to reduce noise.
 2. **Shortened Completion Beep**: The long beep that signals successful communication with the watch is significantly
    shortened.
-3. **Shortened Error Beep**: Similarly, the beep indicating a communication error is also made much shorter.
+3. **Short Error Beep**: A new short and jarring sound to alert of errors without being too long.
